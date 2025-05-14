@@ -9,7 +9,7 @@
 
 Website tentang dokumentasi bioinformatika
 
-### [🔬 **Mulai dari sini**](https://bowo1698.github.io/bowo-aq.note/)
+### [🔬 **Mulai dari sini**](https://www.bowo.digital/)
 
 [![Build Status](https://app.travis-ci.com/bowo1698/bowo-aq.note.svg?token=ssdsH6weCMdqqBqfNAKb&branch=main)](https://travis-ci.com/bowo1698/bowo-aq.note)
 ![GitHub Repo stars](https://img.shields.io/github/stars/bowo1698/bowo-aq.note?style=social)
